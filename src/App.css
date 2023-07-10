@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.mail{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #000000;
+    border: 1px solid red;
+}
